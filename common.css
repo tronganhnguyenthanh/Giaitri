@@ -1,0 +1,65 @@
+.main{
+	width:750px;
+	height:750px;
+	border:1px solid white;
+	margin:auto;
+}
+nav{
+	width:800px;
+	height:20px;
+	border:1px solid white;
+	background:skyblue;
+}
+a{
+	text-decoration:none;
+	margin:50px;
+	color:white;
+	text-transform:uppercase;
+}
+a:hover{
+	color:blue;
+}
+.image{
+	width:250px;
+	height:404px;
+	border:1px solid lightgray;
+	margin:10px;
+	margin-left:10px;
+	background:blue;
+}
+p{
+	margin-left:10px;
+	color:dodgerblue;
+	text-transform:capitalize;
+	text-align:center;
+}
+.col-3{
+	width:33.33%;
+	float:left;
+}
+button{
+	margin-left:10px;
+	color:white;
+	background:red;
+}
+h1{
+	text-transform:capitalize;
+	text-align:center;
+	color:navy;
+}
+hr{
+	width:200px;
+	opacity:0.3;
+}
+.h-title{
+	color:dodgerblue;
+}
+iframe{
+	width:250px;
+	height:250px;
+	margin-left:10px;
+}
+video{
+	width:250px;
+	margin-left:10px;
+}
